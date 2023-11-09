@@ -10,8 +10,8 @@ Projekt ma na celu usprawnienie codziennego planowania posiłków, co przyczynia
 
 ## Etap 2
 RObert
-## Etap 3
-Mateusz
+## Etap 3 Mateusz 
+## Lista Zakupów
 ## Etap 4 (1,2)
 Kevin
 ## Etap 5 (3,4)
