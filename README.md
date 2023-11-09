@@ -10,8 +10,8 @@ Projekt ma na celu usprawnienie codziennego planowania posiłków, co przyczynia
 
 ## Etap 2
 RObert
-## Etap 3 Mateusz 
-## Lista Zakupów
+
+## Etap 3 Lista Zakupów
 * Na podstawie wybranych posiłków, aplikacja generuje listę zakupów, uwzględniając ilość i rodzaj składników potrzebnych do przygotowania posiłków. 
 * Opcjonalnie, aplikacja może obliczać makroskładniki na podstawie wybranychprzepisów.
 
