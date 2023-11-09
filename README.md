@@ -1,5 +1,7 @@
 # JadloPlan
-
+JadłoPlan jest aplikacją mającą na celu ułatwienie organizacji posiłkow na cały tydzień.
+Głownym celem projektu jest generowanie jadłospisu na podstawie preferencji użytkownika oraz automatyczne tworzenie listy zakupów na najbliższy tydzień.
+Projekt ma na celu usprawnienie codziennego planowania posiłków, co przyczynia się do zdrowszego stylu życia i efektywniejszego zarządzania czasem.
 ## Etap 1 Martyna
 ## Tworzenie i przechowywanie przepisów
 * Użytkownicy mogą dodać swoje własne przepisy, zawierające nazwę, składniki i sposób przygotowania
