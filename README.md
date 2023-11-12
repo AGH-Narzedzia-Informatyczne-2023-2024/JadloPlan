@@ -9,7 +9,12 @@ Projekt ma na celu usprawnienie codziennego planowania posiłków, co przyczynia
 * Możliwość dodawania różnych filtrów, takich jak czas przygotowania, typ diety, trudność, itp.
 
 ## Etap 2
-RObert
+### Tworzenie planu dnia 
+* Użytkownicy będą mogli przeglądać dni tygodnia i do każdego z nich dodawać przepisy.
+* Do każdego dnia tygodnia użytkownicy będą mogli przypisać śniadanie, obiad i kolację oraz inne własne posiłki
+* Po utworzeniu planu na dany tydzień użytkownicy będa go mogli w każdym momencie podglądnąć oraz nacisnąć na przepis w celu uzyskania szczegółów, składników oraz sposobu przygotowania. 
+* Umożliwia to bardzo łatwy dostęp do jadłospisu na dany tydzień i usprawnia proces przygotowania posiłków.
+
 
 ## Etap 3 Lista Zakupów
 * Na podstawie wybranych posiłków, aplikacja generuje listę zakupów, uwzględniając ilość i rodzaj składników potrzebnych do przygotowania posiłków. 
