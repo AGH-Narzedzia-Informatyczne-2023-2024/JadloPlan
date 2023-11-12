@@ -21,6 +21,6 @@ Kevin
 Szymon
 ## Etap 6
 * Kalorie Posiłku: W szczegółach przepisu można dodać pole, które wyświetli łączną liczbę kalorii dla danego posiłku. Kalorie mogą być automatycznie obliczane na podstawie składników lub ręcznie wprowadzane przez użytkowników.
-* Możliwość dostosowania jadłospisu do liczby osób: Umożliwienie użytkownikom dostosowanie liczby składników w przepisach na podstawie liczby osób, dla których planują gotować. To pomoże w modyfikowaniu przepisów w zależności od potrzeb.
+* Możliwość dostosowania jadłospisu do liczby osób: Umożliwienie użytkownikom dostosowanie ilości składników w przepisach na podstawie liczby osób, dla których planują gotować. To pomoże w modyfikowaniu przepisów w zależności od potrzeb.
 * System Oszczędzania Jedzenia: Pozwoli użytkownikom śledzić zużycie składników w lodówce i spiżarni, co pomoże uniknąć marnowania jedzenia i proponować przepisy na podstawie dostępnych składników.
 
