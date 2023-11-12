@@ -15,8 +15,15 @@ RObert
 * Na podstawie wybranych posiłków, aplikacja generuje listę zakupów, uwzględniając ilość i rodzaj składników potrzebnych do przygotowania posiłków. 
 * Opcjonalnie, aplikacja może obliczać makroskładniki na podstawie wybranychprzepisów.
 
-## Etap 4 (1,2)
-Kevin
+## Etap 4 Kevin
+### Możliwość udostępniania przepisów
+Każdy użytkownik aplikacji jest w stanie dzielić się swoimi pomysłami z innymi osobami. Dzięki temu aplikacja zrzesza ludzi z pasją do gotowania, pozwala im jeszcze bardziej rozwijać swoje zainteresowanie. Jest to jedna z kluczowych funkcji aplikacji, jako że pozwala wtedy nie tylko na składowanie własnych przepisów, ale i na interakcję pomiędzy ludźmi, co ma przykuwać uwagę nowych użytkowników jak i utrzymywać zainteresowanie aplikacją, zapobiegając utracie dotychczasowych odbiorców. 
+Udostępnianie będzie możliwe na różne sposoby:
+1. Poprzez linki, które wysyłane poza aplikację będą mogły ją automatycznie otworzyć lub jeśli odbiorca linku nie posiada aplikacji na swoim urządzeniu to link zachęci do jej instalacji.
+2. Poprzez wiadomości w aplikacji pomiędzy zarejestrowanymi użytkownikami.
+3. Użytkownik może także upublicznić przepisy na swoim profilu, zarówno całej społecznośći jak i ustawić prywatność udostępnianych przepisów na mniejszą grupę odbiorców.
+### Ocenianie i komentowanie przepisów
+Użytkownicy mogą oceniać przepisy za pomocą gwiazdek lub innych ocen, co pozwala innym znaleźć najpopularniejsze i najlepsze przepisy. Komentowanie przepisów umożliwia użytkownikom pozostawienie opinii, sugestii lub modyfikacji do przepisów innych użytkowników. Twórcom przepisów można dodać możliwość moderacji komentarzy, aby kontrolować treści.
 ## Etap 5 (3,4)
 Szymon
 ## Etap 6
