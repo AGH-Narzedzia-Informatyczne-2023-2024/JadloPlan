@@ -24,8 +24,14 @@ Udostępnianie będzie możliwe na różne sposoby:
 3. Użytkownik może także upublicznić przepisy na swoim profilu, zarówno całej społecznośći jak i ustawić prywatność udostępnianych przepisów na mniejszą grupę odbiorców.
 ### Ocenianie i komentowanie przepisów
 Użytkownicy mogą oceniać przepisy za pomocą gwiazdek lub innych ocen, co pozwala innym znaleźć najpopularniejsze i najlepsze przepisy. Komentowanie przepisów umożliwia użytkownikom pozostawienie opinii, sugestii lub modyfikacji do przepisów innych użytkowników. Twórcom przepisów można dodać możliwość moderacji komentarzy, aby kontrolować treści.
-## Etap 5 (3,4)
-Szymon
+## Etap 5 Ulubione przepisy, Wyszukiwarka Przepisów z bazy
+### Możliwość Dodawania Ulubionych Przepisów:
+* Użytkownicy mogą dodać przepisy do swojej listy ulubionych, dzięki czemu mogą łatwo znaleźć i korzystać z ulubionych przepisów.
+* Ulubione przepisy można katalogować, tworzyć listy ulubionych na różne okazje, takie jak urodziny czy święta.
+### Wyszukiwanie Przepisów w Bazie Danych:
+* Wyszukiwarka umożliwia użytkownikom przeszukiwanie bazy danych przepisów według różnych kryteriów, takich jak nazwa przepisu, składniki, kategoria posiłku, czas przygotowania, i wiele innych.
+* Zaawansowane filtry pozwalają na bardziej precyzyjne wyniki wyszukiwania, na przykład "wegetariańskie obiady poniżej 30 minut".
+* Przeglądanie przepisów według popularności, ocen, lub najnowszych dodanych przepisów
 ## Etap 6
 * Kalorie Posiłku: W szczegółach przepisu można dodać pole, które wyświetli łączną liczbę kalorii dla danego posiłku. Kalorie mogą być automatycznie obliczane na podstawie składników lub ręcznie wprowadzane przez użytkowników.
 * Możliwość dostosowania jadłospisu do liczby osób: Umożliwienie użytkownikom dostosowanie ilości składników w przepisach na podstawie liczby osób, dla których planują gotować. To pomoże w modyfikowaniu przepisów w zależności od potrzeb.
