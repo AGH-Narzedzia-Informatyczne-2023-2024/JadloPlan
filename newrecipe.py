@@ -1,11 +1,14 @@
-# Funkcja do pobierania liczby porcji
+# Funkcja do pobierania liczby porcji wraz z jednostką miary
 def pobierz_liczbe_porcji():
     while True:
         try:
-            liczba_porcji = int(input("Podaj liczbę porcji: "))
-            return liczba_porcji
+            input_liczba_porcji = input("Podaj liczbę porcji wraz z jednostką miary (np. '4 porcje, 3 placki'): ")
+            # Rozdzielanie liczby i jednostki miary
+            liczba_porcji, jednostka_miary = input_liczba_porcji.split()
+            liczba_porcji = int(liczba_porcji)
+            return liczba_porcji, jednostka_miary
         except ValueError:
-            print("Błąd! Podaj liczbę całkowitą.")
+            print("Błąd! Podaj liczbę porcji wraz z jednostką miary (np. '4 porcje, 3 placki').")
 
 # Pobieranie informacji od użytkownika
 nazwa_przepisu = input("Podaj nazwę przepisu: ")
