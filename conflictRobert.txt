@@ -1,1 +1,2 @@
 TEkst do wygenerowania konfliktu
+dodany tekst
