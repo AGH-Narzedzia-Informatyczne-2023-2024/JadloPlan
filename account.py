@@ -49,4 +49,4 @@ def create_account():
 if __name__ == "__main__":
     new_user = create_account()
     print("\nUtworzone konto:")
-    new_user.display_info()
+    new_user.display_info()"tekst" 
