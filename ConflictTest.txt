@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 more changes in document
+
+making changes in the empty document
+>>>>>>> conflict_branch
